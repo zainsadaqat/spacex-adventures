@@ -20,9 +20,9 @@
 - HTML 
 - CSS
 - BootStrap
+- JavaScript
 - React
 - Redux
-- Javascript
 
 
 ## Getting Started
