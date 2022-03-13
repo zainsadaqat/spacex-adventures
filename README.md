@@ -17,12 +17,9 @@
 
 ## Built With
 
-- HTML 
-- CSS
-- BootStrap
-- JavaScript
-- React
-- Redux
+- `HTML`, `CSS`
+- `JavaScript`, `React`, `Redux`
+- `GitFlow`
 
 
 ## Getting Started
