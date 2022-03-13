@@ -35,19 +35,27 @@ In your terminal, enter a git clone and past the link that you copied from the r
 
 2 - open your terminal and clone the project running 
 
-`git clone https://github.com/zainsadaqat/spacex-adventures.git`
+```
+git clone https://github.com/zainsadaqat/spacex-adventures.git
+```
 
 3 - install or update your npm running
 
-`npm install` 
+```
+npm install
+``` 
 
 or if you have it installed already 
 
-`npm update`
+```
+npm update
+```
 
 4 - start your local server and build project using
 
-`npm start`
+```
+npm start
+```
 
 ## Testing
 
@@ -55,7 +63,9 @@ We use Jest library to test our code.
 
 You can run those tests locally if you follow the steps above from 1 to 3, and then run:
 
-`npm test`
+```
+npm test
+```
 
 ## Authors
 
